@@ -1,0 +1,14 @@
+C:\temp\ispp-21\LabRab16\LabRab16\bin\Debug\net8.0\LabRab16.exe
+C:\temp\ispp-21\LabRab16\LabRab16\bin\Debug\net8.0\LabRab16.deps.json
+C:\temp\ispp-21\LabRab16\LabRab16\bin\Debug\net8.0\LabRab16.runtimeconfig.json
+C:\temp\ispp-21\LabRab16\LabRab16\bin\Debug\net8.0\LabRab16.dll
+C:\temp\ispp-21\LabRab16\LabRab16\bin\Debug\net8.0\LabRab16.pdb
+C:\temp\ispp-21\LabRab16\LabRab16\obj\Debug\net8.0\LabRab16.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp-21\LabRab16\LabRab16\obj\Debug\net8.0\LabRab16.AssemblyInfoInputs.cache
+C:\temp\ispp-21\LabRab16\LabRab16\obj\Debug\net8.0\LabRab16.AssemblyInfo.cs
+C:\temp\ispp-21\LabRab16\LabRab16\obj\Debug\net8.0\LabRab16.csproj.CoreCompileInputs.cache
+C:\temp\ispp-21\LabRab16\LabRab16\obj\Debug\net8.0\LabRab16.dll
+C:\temp\ispp-21\LabRab16\LabRab16\obj\Debug\net8.0\refint\LabRab16.dll
+C:\temp\ispp-21\LabRab16\LabRab16\obj\Debug\net8.0\LabRab16.pdb
+C:\temp\ispp-21\LabRab16\LabRab16\obj\Debug\net8.0\LabRab16.genruntimeconfig.cache
+C:\temp\ispp-21\LabRab16\LabRab16\obj\Debug\net8.0\ref\LabRab16.dll
